@@ -1,0 +1,64 @@
+h1 {
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	color : black;
+	text-align: center;
+}
+
+#box {
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	margin-left: 50px;
+	float: left;
+	width: 410px;
+	border: 2px solid black;
+	background: gray;
+}
+#box2{
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	margin-left: 50px;
+	float: left;
+	width: 410px;
+	border: 2px solid black;
+	background: gray;
+}
+
+#box3{
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	margin-left: 50px;
+	float: left;
+	width: 410px;
+	border: 2px solid black;
+	background: gray;
+}
+
+#chicken{
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	font-size: 20px;
+	position: relative;
+	left: 328px;
+	bottom: 2px;
+	width: 80px;
+	border: 2px solid black;
+	background: lightcoral;
+}
+
+#beef{
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	font-size: 20px;
+	position: relative;
+	left: 328px;
+	bottom: 2px;
+	width: 80px;
+	border: 2px solid black;
+	background: khaki;
+}
+
+#sushi{
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	font-size: 20px;
+	position: relative;
+	left: 328px;
+	bottom: 2px;
+	width: 80px;
+	border: 2px solid black;
+	background: crimson;
+}
